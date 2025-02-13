@@ -1,13 +1,16 @@
-🚀 Naveen AKA Lamgerr
----
+## 🚀 Naveen AKA Lamgerr
 
 🌌 About Me
 
-🔹 Backend Developer & Freelancer
-🔹 5+ Years Experience in Advanced Python & Discord Bot Development
-🔹 Expert in Automation, AI, and Backend Technologies 
-🔹 Building High-Performance Bots & AI Systems
-🔹 Currently Under Graduate And Schooling From Lucknow UP , India
+🔹 Backend Developer & Freelancer.
+
+🔹 5+ Years Experience in Advanced     Python & Discord Bot Development.
+
+🔹 Expert in Automation, AI, and       Backend Technologies.
+
+🔹 Building High-Performance Bots &    AI Systems.
+
+🔹 Currently Under Graduate And        Schooling From Lucknow UP ,         India.
 
 💡 Passionate About:
 
