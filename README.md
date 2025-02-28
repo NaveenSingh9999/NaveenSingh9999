@@ -27,7 +27,7 @@ Exploring futuristic tech & pushing boundaries of innovation
 ---
 
 🚀 Skills & Expertise
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,python,nextjs,typescript,html,css,js,java,cpp,kotlin,github,bash,docker,vim,git,anaconda,apple,linux,clion,replit,discord,discordjs,django,flask,linux,vscode,pycharm,r,fastapi,mongodb&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,python,nextjs,typescript,html,css,js,java,cpp,kotlin,github,bash,docker,vim,git,anaconda,apple,linux,clion,replit,discord,discordjs,django,vite,flask,linux,vscode,pycharm,r,fastapi,mongodb&perline=4)](https://skillicons.dev)
 
 ---
 
