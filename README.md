@@ -1,52 +1,54 @@
-## 🚀 Naveen AKA Lamgerr
+# 🚀 Naveen (aka **Lamgerr**)
 
-🌌 About Me
-
-🔹 Backend Developer & Freelancer.
-
-🔹 5+ Years Experience in Advanced     Python & Discord Bot Development.
-
-🔹 Expert in Automation, AI, and       Backend Technologies.
-
-🔹 Building High-Performance Bots &    AI Systems.
-
-🔹 Currently Under Graduate And        Schooling From Lucknow UP ,         India.
-
-💡 Passionate About:
-
-Building next-gen automation solutions
-
-Creating AI-powered systems that enhance productivity
-
-Developing high-performance Discord bots & API integrations
-
-Exploring futuristic tech & pushing boundaries of innovation
-
-
+> Backend Developer • System Builder • Automation Enthusiast
 
 ---
 
-🚀 Skills & Expertise
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,python,nextjs,typescript,html,css,js,java,cpp,kotlin,github,bash,docker,vim,git,anaconda,apple,linux,clion,replit,discord,discordjs,django,vite,flask,linux,vscode,pycharm,r,fastapi,mongodb&perline=4)](https://skillicons.dev)
+## 🌌 About Me
+
+I'm a **backend-focused developer & freelancer** with strong experience in building scalable systems, automation tools, and intelligent applications.
+
+I specialize in **Python-based development**, **Discord bots**, and **backend architectures**, with a strong interest in AI-powered systems and high-performance infrastructure.
+
+📍 Lucknow, Uttar Pradesh, India  
+🎓 Undergraduate Student  
 
 ---
 
-📊 Technical Proficiency
+## 💡 What I’m Passionate About
 
-Backend Development (Python, Java, Discord Development, C++, Next.js, SQL, and many more in Skills Section) - 100%
+- Building **next-generation automation systems**
+- Creating **AI-powered tools** that boost productivity
+- Developing **high-performance Discord bots & APIs**
+- Exploring **futuristic technologies** and pushing system limits
 
-Front-end Development (React, HTML, CSS, Tkinter , and many more in Skills Section) - 82%
+---
+
+## 🚀 Skills & Expertise
+
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,js,java,cpp,react,nextjs,html,css,tailwind,flask,django,fastapi,nodejs,discordjs,git,github,docker,linux,aws,gcp,azure,mongodb,postgres,redis,bash,vscode,pycharm,neovim,anaconda,androidstudio&perline=6)](https://skillicons.dev)
 
 ---
 
-🌍 Connect with Me
+## 📊 Technical Proficiency
 
-Via Email - naveensingh9016@gmail.com
+**Backend Development**  
+Python, Java, C++, Discord Development, APIs, Databases, System Design  
+**Proficiency:** ⭐⭐⭐⭐⭐ (Advanced)
 
-Via WhatsApp (WP) - https://wa.me/+18313535035
-
-Via Discord - lamgerr Or lamgerr#6969 (With Tag)
-
-Fiverr Profile - https://www.fiverr.com/s/1qkNrwp
+**Frontend Development**  
+React, HTML, CSS, Tkinter, UI/UX basics  
+**Proficiency:** ⭐⭐⭐⭐☆ (Intermediate–Advanced)
 
 ---
+
+## 🌍 Connect With Me
+
+📧 **Email:** naveensingh9016@gmail.com  
+💬 **WhatsApp:** https://wa.me/18313535035  
+🎮 **Discord:** lamgerr  
+🧑‍💻 **Fiverr:** https://www.fiverr.com/s/1qkNrwp  
+
+---
+
+> *Building systems that scale. Automating what matters. Learning endlessly.*
