@@ -1,54 +1,90 @@
-# 🚀 Naveen (aka **Lamgerr**)
+# 🚀 Naveen (aka **Lamgerr**)  
 
-> Backend Developer • System Builder • Automation Enthusiast
+> **Available for Hire** • Backend Developer • System Builder • AI Automation Enthusiast  
+> Age: 16 (Born 7 April 2009)  
+> 📍 Lucknow, Uttar Pradesh, India  
 
 ---
 
 ## 🌌 About Me
 
-I'm a **backend-focused developer & freelancer** with strong experience in building scalable systems, automation tools, and intelligent applications.
+Hey! I’m Naveen, aka **Lamgerr** — a **backend-focused developer, AI coder, and automation freak**.  
+With **7+ years of experience** (and still counting), I build **scalable backend systems**, **AI-driven tools**, and **modern interactive web platforms**.  
 
-I specialize in **Python-based development**, **Discord bots**, and **backend architectures**, with a strong interest in AI-powered systems and high-performance infrastructure.
-
-📍 Lucknow, Uttar Pradesh, India  
-🎓 Undergraduate Student  
+I specialize in **Python, TypeScript/TSX, Vite + React, high-performance backend architectures**, and **AI automation**.  
 
 ---
 
-## 💡 What I’m Passionate About
+## 💡 My Philosophy
 
-- Building **next-generation automation systems**
-- Creating **AI-powered tools** that boost productivity
-- Developing **high-performance Discord bots & APIs**
-- Exploring **futuristic technologies** and pushing system limits
+I build **smart, scalable, and automated systems**.  
+Automation saves time, AI enhances productivity, and code should always be **clean, optimized, and maintainable**.  
 
----
-
-## 🚀 Skills & Expertise
-
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,js,java,cpp,react,nextjs,html,css,tailwind,flask,django,fastapi,nodejs,discordjs,git,github,docker,linux,aws,gcp,azure,mongodb,postgres,redis,bash,vscode,pycharm,neovim,anaconda,androidstudio&perline=6)](https://skillicons.dev)
+I don’t just code — I **architect systems, solve complex problems, and push tech boundaries**.  
 
 ---
 
-## 📊 Technical Proficiency
+## 🏅 Expert-Level Skills
 
-**Backend Development**  
-Python, Java, C++, Discord Development, APIs, Databases, System Design  
-**Proficiency:** ⭐⭐⭐⭐⭐ (Advanced)
+### Core Stack
 
-**Frontend Development**  
-React, HTML, CSS, Tkinter, UI/UX basics  
-**Proficiency:** ⭐⭐⭐⭐☆ (Intermediate–Advanced)
+| Skill | Level |
+|-------|-------|
+| Python | █████⭐⭐⭐⭐⭐ |
+| TypeScript / TSX | █████⭐⭐⭐⭐⭐ |
+| Vite | █████⭐⭐⭐⭐⭐ |
+| React | █████⭐⭐⭐⭐⭐ |
+| C++ | █████⭐⭐⭐⭐⭐ |
+| JavaScript | █████⭐⭐⭐⭐⭐ |
+
+### Backend / DevOps
+
+| Skill | Level |
+|-------|-------|
+| Node.js / FastAPI / Flask | ████☆⭐⭐⭐☆ |
+| SQL / PostgreSQL / MongoDB | ████☆⭐⭐⭐☆ |
+| Docker / Linux / CI/CD / Cloud (AWS, GCP, Azure) | ████☆⭐⭐⭐☆ |
+| AI & Automation (Vibe AI, LAG, Eleven Labs, Gemini API) | █████⭐⭐⭐⭐⭐ |
+
+> 💡 These are my **core tools** for building **intelligent, scalable, and futuristic systems**.  
+
+---
+
+## ⚡ What I’m Passionate About
+
+- Building **next-gen automation systems**  
+- Creating **AI-powered productivity tools**  
+- Developing **high-performance, real-time APIs & distributed systems**  
+- Exploring **futuristic tech stacks, cloud architectures, and system-level programming**  
+- Designing **secure, scalable, interactive web & mobile platforms**  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![Lamgerr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenSingh9999&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenSingh9999&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaveenSingh9999&theme=radical)  
 
 ---
 
 ## 🌍 Connect With Me
 
-📧 **Email:** naveensingh9016@gmail.com  
-💬 **WhatsApp:** https://wa.me/18313535035  
+📧 **Email:** [naveensingh9016@gmail.com](mailto:naveensingh9016@gmail.com)  
+💬 **WhatsApp:** [Chat Now](https://wa.me/18313535035)  
 🎮 **Discord:** lamgerr  
-🧑‍💻 **Fiverr:** https://www.fiverr.com/s/1qkNrwp  
+🧑‍💻 **Fiverr:** [Hire Me](https://www.fiverr.com/s/1qkNrwp)  
 
 ---
 
-> *Building systems that scale. Automating what matters. Learning endlessly.*
+## 📖 Fun Facts & Vibes
+
+- Started coding at a young age and leveled up into **full-stack + AI automation expert**  
+- Love exploring **futuristic tech** like AI, cloud kernels, and high-performance web architectures  
+- Always **learning, building, and improving** — there’s no “done” in tech  
+
+---
+
+### 🖖 Footer
+
+💻 **P.S.: I use Arch Linux for everything.**
